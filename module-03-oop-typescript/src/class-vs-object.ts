@@ -11,5 +11,5 @@ class Employee {
 const employee1 = new Employee("John Doe", 50000);
 const employee2 = new Employee("Jane Smith", 60000);
 
-console.log(employee1 instanceof Employee);
-console.log(employee2 instanceof Employee);
+// console.log(employee1 instanceof Employee);
+// console.log(employee2 instanceof Employee);
