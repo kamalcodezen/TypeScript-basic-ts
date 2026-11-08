@@ -7,7 +7,6 @@ class Employee {
     this.basedSalary = basedSalary;
   }
 }
-
 const employee1 = new Employee("John Doe", 50000);
 const employee2 = new Employee("Jane Smith", 60000);
 
